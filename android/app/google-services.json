@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347367152674",
+    "project_id": "aroundfast",
+    "storage_bucket": "aroundfast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347367152674:android:0708fd44dc4633947e7e7b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hostels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9J_b7gko3vQNkyhJnuIopNPNcCiURTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
