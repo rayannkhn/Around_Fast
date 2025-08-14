@@ -72,4 +72,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'aroundfast.firebasestorage.app',
     iosBundleId: 'com.example.flutterHostels',
   );
+
 }
