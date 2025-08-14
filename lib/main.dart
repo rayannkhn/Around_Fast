@@ -12,6 +12,7 @@ import 'dart:math';
 // google_fonts, url_launcher, cloud_firestore, firebase_core, intl
 
 void main() async {
+  // Triggering a new Vercel deployment
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
